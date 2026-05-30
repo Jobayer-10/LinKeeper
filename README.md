@@ -14,4 +14,4 @@ A secure link management system with end-to-end encryption.
 3. Set up PostgreSQL
 4. Run: `python app.py`
 
-For support: linkeeper.support@gmail.com
+If you run into any problem regarding this or have any suggestions, feel free to contact: prantojobayer308@gmail.com
